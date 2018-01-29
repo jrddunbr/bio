@@ -9,24 +9,25 @@ My favorite operating system is Arch Linux.
 
 In order to contact me, use the following:
 
-Website:
+### Website:
 
 http://ja13.org
 
-Email:
+### Email:
 
 jrddunbr@gmail.com
+
 dunbarj@clarkson.edu
 
-GitHub:
+### GitHub:
 
 https://github.com/jrddunbr
 
-Phone:
+### Phone:
 
 860-578-6821
 
-PGP Key Fingerprint:
+### PGP Key Fingerprint:
 
 CF20 2CC8 59BA C692
 
