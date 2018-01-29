@@ -2,7 +2,7 @@
 
 My name is Jared A. Dunbar. I grew up in Harwinton, CT and graduated from
 Lewis S. Mills High School of Burlington, CT. I now attend Clarkson University
-as a Junior in Computer Science, where I participate in the community a well
+as a Junior in Computer Science, where I participate in the community as well
 as work on major projects and outreach programs.
 
 My favorite operating system is Arch Linux.
