@@ -18,6 +18,10 @@ Email:
 jrddunbr@gmail.com
 dunbarj@clarkson.edu
 
+GitHub:
+
+https://github.com/jrddunbr
+
 Phone:
 
 860-578-6821
@@ -25,3 +29,6 @@ Phone:
 PGP Key Fingerprint:
 
 CF20 2CC8 59BA C692
+
+My public key can be found on most public keyservers by searching for my
+full name or email address.
