@@ -5,7 +5,9 @@ Lewis S. Mills High School of Burlington, CT. I now attend Clarkson University
 as a Junior in Computer Science, where I participate in the community as well
 as work on major projects and outreach programs.
 
-My favorite operating system is Arch Linux.
+My interests lie mostly in computer infrastructure as well as networking,
+computer hardware, and computer security. My primary day-to-day operating system
+is Arch Linux.
 
 ### Website:
 
