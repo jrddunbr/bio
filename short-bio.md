@@ -11,6 +11,10 @@ My favorite operating system is Arch Linux.
 
 http://ja13.org
 
+### Resume:
+
+http://resume.ja13.org/resume.pdf
+
 ### Email:
 
 jrddunbr@gmail.com
