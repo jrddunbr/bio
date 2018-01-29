@@ -7,8 +7,6 @@ as work on major projects and outreach programs.
 
 My favorite operating system is Arch Linux.
 
-In order to contact me, use the following:
-
 ### Website:
 
 http://ja13.org
